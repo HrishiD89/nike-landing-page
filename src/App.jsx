@@ -7,6 +7,8 @@ import { Hero,
   Subscribe,
   SpecialOffers } from './sections'
 
+
+
 import Nav from './components/Nav'
 
 export default function App() {

@@ -4,4 +4,4 @@
 
 ### Links
 
-- Live Site URL: [https://hrishid89.github.io/recipe-page/](https://hrishid89.github.io/recipe-page/)
+- Live Site URL: [https://nike-landing-page-h89.vercel.app/](https://nike-landing-page-h89.vercel.app/)
